@@ -37,7 +37,7 @@ export function Makeup() {
     <div className="bg-webpage p-4 rounded-lg shadow-md w-70">
       <div id="list">
         <header>
-          <h1 className="text-bold">Important!</h1>
+          <h1 className="text-bold">Makeup</h1>
         </header>
 
         <ul className="bg-white p-2 rounded-lg space-y-2">
